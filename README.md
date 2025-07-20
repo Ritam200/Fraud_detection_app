@@ -50,4 +50,4 @@ cd fraud-detection
 pip install -r requirements.txt
 
 # Run the script
-python fraud_detection.py 
+streamlit run fraud_detection.py 
